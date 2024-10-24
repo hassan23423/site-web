@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon Site Web</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        img {
+            max-width: 100%; /* Pour rendre l'image responsive */
+            height: auto; /* Pour conserver le ratio de l'image */
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Bienvenue sur mon site</h1>
+    </header>
+    
+    <main>
+        <img src="powernity" alt="Description de l'image" />
+    </main>
+    
+    <footer>
+        <p>Copyright © 2024</p>
+    </footer>
+</body>
+</html>
